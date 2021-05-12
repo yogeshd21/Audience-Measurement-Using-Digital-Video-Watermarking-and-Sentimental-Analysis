@@ -15,4 +15,4 @@ maintain the integrity of the system. Based on the complete data collected
 from the users, then accordingly services will be provided thereby making an
 effective and positive use of the user data and technology.
 
-More on https://github.com/bumblebee26/TV-audience-measurement-and-Sentiment-Analysis
+A detailed description is available on https://github.com/bumblebee26/TV-audience-measurement-and-Sentiment-Analysis
