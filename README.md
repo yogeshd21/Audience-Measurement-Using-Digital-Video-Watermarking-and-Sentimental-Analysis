@@ -24,7 +24,6 @@ Digital Video Watermarking the channel provider content with hidden watermark an
 ##### Watermarking Demo
 [How our watermarking looks on dynamic frames](http://www.youtube.com/watch?v=t-Om9ugJwDQ)
 
-![](Other%20data/ezgif.com-video-to-gif(1).gif "Digital Watermarking Output")
 
 ##### Checking the Robustness of the watermark with attacks
 <p align="center">
@@ -70,10 +69,6 @@ The smart meter consists of a camera which captures the viewers in front of the 
 [Facial Emotion Recognition Dataset](https://www.kaggle.com/virenbr11/fer-dataset)
 
 [FER dataset training on Kaggle](https://www.kaggle.com/virenbr11/emotion-detection)
-
-##### Age, Gender and Emotion Recognition Demo
-
-![](Other%20data/ezgif.com-video-to-gif(2).gif "Recognition Output")
 
 [Collected Viewer's Data](https://github.com/bumblebee26/TV-audience-measurement-and-Sentiment-Analysis/blob/master/Age%2C%20Gender%20and%20Emotion%20Recognition/People's%20meter%20data.csv)
 
