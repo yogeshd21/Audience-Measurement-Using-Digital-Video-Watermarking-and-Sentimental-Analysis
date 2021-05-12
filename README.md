@@ -1,24 +1,4 @@
 # Audience-Measurement-Using-Digital-Video-Watermarking-and-Sentimental-Analysis
-
-Description:
-The system developed by the entertainment industry to provide
-the users with required services also includes the TRP system. Considering
-working upon the same lines our model provides a more efficient system to
-analyze the audience watching television and thus providing them with the
-right content and right amount of content. The system considers viewership of
-a channel based on various factors like the frames extracted from video watermarked frames, emotion recognition of the viewer, age and gender recognition
-of the viewer and based on all this data the viewed content of the specific
-set of users will be modified. Thus, giving a value to the investment made
-for the channels by the users as well as respecting the time-based constraint.
-This system will also provide a higher security to the overall system and will
-maintain the integrity of the system. Based on the complete data collected
-from the users, then accordingly services will be provided thereby making an
-effective and positive use of the user data and technology.
-
-A detailed description is available on https://github.com/bumblebee26/TV-audience-measurement-and-Sentiment-Analysis
-
-
-# TV audience measurement and Sentiment Analysis
 A smart system which measures the television audience as well as provides valuable insights about the viewers to the channel providers.
 
 **Features**
@@ -91,8 +71,6 @@ The smart meter consists of a camera which captures the viewers in front of the 
 
 [FER dataset training on Kaggle](https://www.kaggle.com/virenbr11/emotion-detection)
 
-##### Age, Gender and Emotion Recognition Demo
-[Youtube Demo](http://www.youtube.com/watch?v=cXv5vLklFic)
 
 ![](Other%20data/ezgif.com-video-to-gif(2).gif "Recognition Output")
 
@@ -122,6 +100,6 @@ A website running on the local server, where the measurement authority can login
 
 
 ## Other Authors
-[Yogesh Deshpande](https://www.linkedin.com/in/yogesh21deshpande/)
+[Viren Baria](https://github.com/bumblebee26)
 
 [Akshay Bhogan](https://www.linkedin.com/in/akshay-bhogan-b13a7870/)
