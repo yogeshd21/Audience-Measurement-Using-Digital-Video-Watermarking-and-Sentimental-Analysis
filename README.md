@@ -22,7 +22,7 @@ Digital Video Watermarking the channel provider content with hidden watermark an
 </p>
 
 ##### Watermarking Demo
-[Youtube Demo](http://www.youtube.com/watch?v=t-Om9ugJwDQ)
+[How our watermarking looks on dynamic frames](http://www.youtube.com/watch?v=t-Om9ugJwDQ)
 
 ![](Other%20data/ezgif.com-video-to-gif(1).gif "Digital Watermarking Output")
 
