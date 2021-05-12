@@ -71,6 +71,9 @@ The smart meter consists of a camera which captures the viewers in front of the 
 
 [FER dataset training on Kaggle](https://www.kaggle.com/virenbr11/emotion-detection)
 
+##### Age, Gender and Emotion Recognition Demo
+
+![](Other%20data/ezgif.com-video-to-gif(2).gif "Recognition Output")
 
 [Collected Viewer's Data](https://github.com/bumblebee26/TV-audience-measurement-and-Sentiment-Analysis/blob/master/Age%2C%20Gender%20and%20Emotion%20Recognition/People's%20meter%20data.csv)
 
