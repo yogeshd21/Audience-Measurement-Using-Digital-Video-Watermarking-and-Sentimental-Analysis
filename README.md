@@ -32,7 +32,7 @@ A smart system which measures the television audience as well as provides valuab
 
 ### Work Flow of the product
 <p align="center">
-  <img src="Other%20data/product_model.jpeg" alt="Flow diagram" title="Working model of the project" width="400" height="500" />
+  <img src="Otherdata/product_model.jpeg" alt="Flow diagram" title="Working model of the project" width="400" height="500" />
 </p>
 
 ### Authentication of Channels via digital watermarking
