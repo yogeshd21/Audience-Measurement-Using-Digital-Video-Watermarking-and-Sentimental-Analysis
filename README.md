@@ -95,7 +95,7 @@ A website running on the local server, where the measurement authority can login
  </table>
 
 
-## Other Authors
+## Other Contributers
 [Viren Baria](https://github.com/bumblebee26)
 
 [Akshay Bhogan](https://www.linkedin.com/in/akshay-bhogan-b13a7870/)
