@@ -1,4 +1,4 @@
-# Audience-Measurement-Using-Digital-Video-Watermarking-and-Sentimental-Analysis
+# Audience Measurement Using Digital Video Watermarking and Sentimental Analysis
 A smart system which measures the television audience as well as provides valuable insights about the viewers to the channel providers.
 
 **Features**
